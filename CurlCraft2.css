@@ -1,0 +1,163 @@
+body{ margin: 0 auto;
+    display: block;
+padding: 20px;
+background-color: rgb(140, 146, 146);}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0dbdb; background-size: auto;/* Light gray background */
+    color: #060505; text-decoration: wavy; /* Dark text color */
+}
+.logo {
+    text-align: center;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0dbdb; background-size: auto;/* Light gray background */
+    color: #060505; text-decoration: wavy; /* Dark text color */ border: #f7f3f3;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+section {
+    padding: 50px 0;
+    text-align: center;
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
+  
+.container{
+    max-width: 250px;
+    margin: 5px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(8, 8, 8, 0.1);
+}  
+.head{  align-items: center;}
+
+
+
+
+
+.container {  display: block;
+    max-width: 500px;
+    margin: 5px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(8, 8, 8, 0.1);
+}
+
+.container{background-image: url("https://i.pinimg.com/564x/63/e0/be/63e0be736e3efb8509e5a4c6baba6763.jpg");background-size: auto;}
+
+footer {
+    padding: 20px;
+}
+header {
+    padding: 20px;
+}
+/* CSS for styling the form */
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+/* Modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  #read-more {
+    display: none;
+}
+
+#about button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#about button:hover {
+    background-color: #45a049;
+}
